@@ -4,4 +4,4 @@
 ##效果图
 ![Image text](https://github.com/wangchang163/StatusBarInFragment/blob/master/image/device-2019-05-05-181027.png)
 
-<img width="150" height="150" src="https://github.com/wangchang163/StatusBarInFragment/blob/master/image/device-2019-05-05-181027.png"/>
+<img width="1080" height="2280" src="https://github.com/wangchang163/StatusBarInFragment/blob/master/image/device-2019-05-05-181027.png"/>
