@@ -3,4 +3,7 @@
 
 ##效果图
 
-<img width="540" height="1140" src="https://github.com/wangchang163/StatusBarInFragment/blob/master/image/device-2019-05-05-181027.png"/>
+<img width="480" height="800" src="https://github.com/wangchang163/StatusBarInFragment/blob/master/image/device-2019-05-05-181027.png"/>
+<img width="480" height="800" src="https://github.com/wangchang163/StatusBarInFragment/blob/master/image/device-2019-05-05-181043.png"/>
+<img width="480" height="800" src="https://github.com/wangchang163/StatusBarInFragment/blob/master/image/device-2019-05-05-181105.png"/>
+<img width="480" height="800" src="https://github.com/wangchang163/StatusBarInFragment/blob/master/image/device-2019-05-05-181114.png"/>
