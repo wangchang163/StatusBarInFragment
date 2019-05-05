@@ -1,0 +1,2 @@
+# StatusBarInFragment
+多Fragment适配状态栏解决方案，适配不同的fragment状态栏颜色，图片
